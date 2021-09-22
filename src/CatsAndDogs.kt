@@ -2,13 +2,6 @@
 //Create a class Dog that inherits Animal and barks ('Name: Woof') == Done
 //Create a class Cat that inherits Animal and meows ('Name: Meow') == Done
 //Create a list of five dogs and a list of five cats with random ages == Done
-//
-//Example 1:
-//Cat 2 is 5 years old and meows
-//Dogs 1 and 2 are 3 years old so they stay quiet, while dogs 3, 4, and 5 are older than the cat so they bark
-//Example 2:
-//In this example, the cats are Lili, Meep, Patchy, Furball, and Snowball
-//Each dog that barks is older than the cat that is meowing.
 import kotlin.random.Random
 
 fun main(){
