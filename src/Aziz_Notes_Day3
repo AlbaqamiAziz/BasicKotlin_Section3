@@ -1,3 +1,17 @@
 Dictionaries : create key value pairs.
 - Each key in the Map is unique
 
+for ((key, value) in countryDict) {
+        println("for the $key the capital is $value")
+ }
+
+ another way tp print Dictionaries :
+
+ for (counrty in countryCapitals){
+         println("${counrty.value} is the capital of the ${counrty.key}")
+   }
+
+# OOP :
+- method by default (public)
+- method by default (public)
+- init val in class parameters =  class Person(val name: String)
